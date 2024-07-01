@@ -151,7 +151,8 @@ label_erori_cnp.grid(row=7, column=0, columnspan=2, padx=10, pady=10)
 label_erori_nume_prenume = tk.Label(root, fg="red", font=("Helvetica", 12))
 label_erori_nume_prenume.grid(row=8, column=0, columnspan=2, padx=10, pady=10)
 
-iconita = tk.PhotoImage(file="C:/Users/Mihai/Desktop/snake.png")
-root.iconphoto(True, iconita)
+#iconita = tk.PhotoImage(file="C:/Users/Mihai/Desktop/snake.png")
+#root.iconphoto(True, iconita)
+#nu functioneaza pe alte pc uri
 
 root.mainloop()
