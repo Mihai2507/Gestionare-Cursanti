@@ -8,5 +8,5 @@ This is a student and course management system designed to simplify the manageme
  - User Interface: 🖥️ User-friendly interface for easy navigation.
  - Data Persistence: 💾 Save and load data to keep all information intact.
 # Technologies Used 🛠️
- - Programming Language: Python
+ - The code is written entirely in Python with #tkinter library for an easy navigation.
 
